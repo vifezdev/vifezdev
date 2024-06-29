@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @vifezdev
-- 👀 I’m interested in Java Development
-- 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Ghost client development and plugin development
+- 🌱 I’m currently learning C++
 - 📫 How to reach me: contact vifez on discord
-- ⚡ Projects: Zenify Client & Pheron Development
+- ⚡ Projects: Strafe Client & Kira development
