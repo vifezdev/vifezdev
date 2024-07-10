@@ -2,4 +2,4 @@
 - 👀 I’m interested in Ghost client development and plugin development
 - 🌱 I’m currently learning C++
 - 📫 How to reach me: contact vifez on discord
-- ⚡ Projects: Strafe Client & Kira development
+- ⚡ Kira development - https://discord.gg/trvw632GYy
