@@ -1,3 +1,18 @@
-- 👋 Hi, I’m @vifezdev, I am a java developer specifically writing plugins for minecraft servers.
+# 👋 hello, i'm vifez
 
-- I have been writing java for a few years and I am still open to accept custom written commissions fof your server! 
+i’m a java developer who basically fucks around with the spigot api
+---
+
+### 🧠 what i do
+- make random spigot plugins
+- write java like it owes me money
+
+---
+
+### 📫 socials
+**GitHub:** [@vifezdev](https://github.com/vifezdev)  
+
+https://electron.vifez.lol/
+https://electron.vifez.lol/
+https://electron.vifez.lol/
+https://electron.vifez.lol/
