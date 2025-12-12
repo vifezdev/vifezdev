@@ -13,6 +13,3 @@ i’m a java developer who basically fucks around with the spigot api
 **GitHub:** [@vifezdev](https://github.com/vifezdev)  
 
 https://electron.vifez.lol/
-https://electron.vifez.lol/
-https://electron.vifez.lol/
-https://electron.vifez.lol/
